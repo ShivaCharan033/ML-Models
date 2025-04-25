@@ -31,3 +31,15 @@ This project analyzes and predicts crimes against women in India using multiple 
 1. Install required Python libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+- Open the `Machine Learning Models.ipynb` notebook using Jupyter Notebook or any compatible IDE.
+- Execute each cell sequentially to perform:
+  - Data Processing
+  - Model Building
+  - Model Evaluation
+
+## ✨ Enhancements
+- Explore additional ensemble models (e.g., LightGBM, CatBoost)
+- Perform advanced feature selection using Recursive Feature Elimination (RFE)
+- Implement deep learning models for further prediction improvements
+- Integrate a dashboard for real-time prediction visualization
+
